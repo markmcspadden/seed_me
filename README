@@ -1,10 +1,10 @@
 SeedMe
 
-A simple way to create a Rails db/seed.rb file from your dev database
+A simple way to create a Rails db/seeds.rb file from your dev database
 
 Usage:
 
 gem install seed_me
 add 'seed_me' to your Gemfile
 fire up the console and run SeedMe.seed
-admire your glorious db/seed.rb in your favorite text editor
+admire your glorious db/seeds.rb in your favorite text editor

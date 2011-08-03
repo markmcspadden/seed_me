@@ -22,6 +22,6 @@ module SeedMe
       seed << ""
     end
 
-    File.open("#{Rails.root}/db/seed.rb", "wb+"){ |f| seed.each{ |s| f.puts s} }
+    File.open("#{Rails.root}/db/seeds.rb", "wb+"){ |f| seed.each{ |s| f.puts s} }
   end
 end

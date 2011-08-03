@@ -9,7 +9,7 @@ Gem::Specification.new do |s|
   s.authors     = ["SeedMe"]
   s.email       = [""]
   s.homepage    = ""
-  s.summary     = %q{Create db/seed.rb file from your Rails database}
+  s.summary     = %q{Create db/seeds.rb file from your Rails database}
   s.description = %q{}
   
   s.rubyforge_project = "seed_me"
